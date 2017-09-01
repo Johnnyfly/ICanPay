@@ -12,7 +12,7 @@ namespace Demo
 
 
         /// <summary>
-        /// 查询易宝的订单支付状态
+        /// 查询易宝的订单支付状态Johnny
         /// </summary>
         private void QueryYeepayOrder()
         {
